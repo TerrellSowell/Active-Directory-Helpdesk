@@ -1,11 +1,11 @@
 # Common Helpdesk functions using Active Directory
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 
-### Objective
+### Objective<h2>
 
 This Active Diectory Lab project aimed to farther my understanding of Active Directory functions to gain preparedness in real-world helpdesk scenarios. The primary focus was to ingest and stregthen my knowledge within the Mircosoft Server application system, generating test telemetry to mimic real-world helpdesk tasks.
 
-### Skills Learned
+### Skills Learned<h2>
 
 - derstanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -13,7 +13,7 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools and Used
+### Tools and Used<h2>
 
   - Microsoft Azure (Virtual Machines/Compute)
   - Remote Desktop
