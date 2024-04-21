@@ -15,9 +15,10 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 
 ### Tools and Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+  - Microsoft Azure (Virtual Machines/Compute)
+  - Remote Desktop
+  - Active Directory Domain Services
+  - Windows Server 2022
 
 ## Steps
 
