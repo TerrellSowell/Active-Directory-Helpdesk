@@ -23,9 +23,9 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 ## Steps
 * **Adding a new user account using the "Copy" method.** <p>
 The one feature that can containurized and mantain users, computers, and OUs is the task "Active Directory "Users ans Computers."
- - Click on the tools tab and under the drop box click "Users and Computers"
- - Click the "Users" folder
- - Find the user you want give the same permissions too. Right click and hit "copy." In the photo below we created a new admin account user named "Jason Tatum" with all the same permissions as a Domain User.
+  - Click on the tools tab and under the drop box click "Users and Computers"
+  - Click the "Users" folder
+  - Find the user you want give the same permissions too. Right click and hit "copy." In the photo below we created a new admin account user named "Jason Tatum" with all the same permissions as a Domain User.
 ![AD users computers](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/21d536a2-552d-4d7e-b42c-b068b0f29961)
 ![copy 2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/55cfbba5-f666-4688-a90a-93de45da4983)
 
