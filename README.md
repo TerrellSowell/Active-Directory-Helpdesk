@@ -20,7 +20,8 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps<h2>
+## Steps
+
 * **Adding a new user account using the "Copy" method.** <p>
 The one feature that can containurized and mantain users, computers, and OUs is the task "Active Directory "Users ans Computers."
   - Click on the tools tab and under the drop box click "Users and Computers"
