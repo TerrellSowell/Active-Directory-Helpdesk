@@ -1,6 +1,6 @@
 # Common Helpdesk functions using Active Directory
 
-##Entry level Helpdesk funcationality
+##Entry level Helpdesk functionality
 
 
 This Active Diectory Lab project aimed to farther my understanding of Active Directory functions to gain preparedness in real-world helpdesk scenarios. The primary focus was to ingest and stregthen my knowledge within the Mircosoft Server application system, generating test telemetry to mimic real-world helpdesk tasks.
