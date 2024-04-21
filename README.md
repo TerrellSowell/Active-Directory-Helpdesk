@@ -3,7 +3,7 @@
 
 ### Objective<h2>
 
-This Active Diectory Lab project aimed to farther my understanding of Active Directory functions to gain preparedness in real-world helpdesk scenarios. The primary focus was to ingest and stregthen my knowledge within the Mircosoft Server application system, generating test telemetry to mimic real-world helpdesk tasks.
+This Active Directory Lab project aimed to farther my understanding of Active Directory functions to gain preparedness in real-world helpdesk scenarios. The primary focus was to ingest and stregthen my knowledge within the Mircosoft Server application system, generating test telemetry to mimic real-world helpdesk tasks.
 
 ### Skills Learned<h2>
 
