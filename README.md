@@ -22,6 +22,6 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 
 ## Steps
 * **Adding a new account using the "Copy" method.** <p>
-The one feature that can containurized and mantain users, computers, and OUs is the task "Users ans Computers."
+The one feature that can containurized and mantain users, computers, and OUs is the task "Active Directory "Users ans Computers."
  - Click on the tools tab and under the drop box click "Users and Computers"
 ![AD users computers](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/21d536a2-552d-4d7e-b42c-b068b0f29961)
