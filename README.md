@@ -47,6 +47,12 @@ In order to find a user, contact, or group in Active Directory you make sure and
   ![bin 2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/95f03229-3d6d-46c2-af5f-227ce3cb8f22)
   ![bin 3](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/a6c7a693-1479-4b0d-a846-b9aee70882ba)
 
+* **Cmd Command for password expiration**<p>
+The net user command deatils when the account's password expires
+  - Open Cmd command line . Type "net user (user name) {space} /domain
+![AD cmd](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/15378c80-a98d-4106-9b9f-338bafb31b55)
+
+  
 
 
 
