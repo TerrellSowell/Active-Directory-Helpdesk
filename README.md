@@ -52,6 +52,15 @@ The "net user" command deatils when the account's password expires
   - Open Cmd command line . Type "net user (user name) {space} /domain."
 ![AD cmd](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/15378c80-a98d-4106-9b9f-338bafb31b55)
 
+* **Unlock Account in Active Directory**<p>
+Common helpdesk issue is someone being locked out of their account.
+  - You want to go into the Domain Controller.
+  - Search the user. Double click the user.
+  - Click the "account" tab.
+  - Check the "Unlock account" box and press "Ok."
+ ![unlock account](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/79ebd364-6409-4bb1-8e09-5b7468aeb139)
+
+
   
 
 
