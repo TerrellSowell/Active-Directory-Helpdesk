@@ -22,7 +22,7 @@ This Active Directory Lab project aimed to farther my understanding of Active Di
 ## Steps
 
 * **Adding a new user account using the "Copy" method.** <p>
-The one feature that can containurized and mantain users, computers, and OUs is the task "Active Directory "Users ans Computers."
+The one feature that can containurized and mantain users, computers, and OUs is the task "Active Directory "Users ans Computers." This method allows you to automate adding new user accounts by replicating account permissions.
   - Click on the tools tab and under the drop box click "Users and Computers"
   - Click the "Users" folder
   - Find the user you want give the same permissions too. Right click and hit "copy." In the photo below we created a new admin account user named "Jason Tatum" with all the same permissions as a Domain User.
