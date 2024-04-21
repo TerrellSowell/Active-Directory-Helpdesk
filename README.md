@@ -7,15 +7,14 @@ This Active Diectory Lab project aimed to farther my understanding of Active Dir
 
 ### Skills Learned<h2>
 
-- derstanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Understanding of Active Directory concepts and practical application.
+- Proficiency in creating new accounts in Active Directory.
+- Ability to generate and recognize common Active Directory features.
+- Development of critical thinking and problem-solving skills in Helpdesk.
 
 ### Tools and Used<h2>
 
-  - Microsoft Azure (Virtual Machines/Compute)
+  - Microsoft Azure (Virtual Machines/Computers)
   - Remote Desktop
   - Active Directory Domain Services
   - Windows Server 2022
