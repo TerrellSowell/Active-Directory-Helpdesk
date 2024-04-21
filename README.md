@@ -69,6 +69,10 @@ If user has forgotten their password and can no longer access desktop you can go
 ![reset2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/86b7a913-93a9-42f6-a4c3-c9b7c383f100)
 ![pass reset](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/0f930cbd-b43d-4143-9720-5b3233440683)
 
+* **Create a shared drive permissions for security groups**<p>
+  (4/21/24) Lab 7 {Bookmark}
+  
+
    
 
 
