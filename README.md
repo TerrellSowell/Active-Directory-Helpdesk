@@ -54,11 +54,22 @@ The "net user" command deatils when the account's password expires
 
 * **Unlock a user account in Active Directory**<p>
 A common helpdesk issue is someone being locked out of their account. Below is the documentation to fix the user's issue.
-  - You want to go into the Domain Controller.
+  - Open Server Manager.
   - Search the user. Double click the user.
   - Click the "account" tab.
   - Check the "Unlock account" box and press "Ok."
  ![unlock account](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/79ebd364-6409-4bb1-8e09-5b7468aeb139)
+
+* **Reset the Users passwords in Active Directory**<p>
+If user has forgotten their password and can no longer access desktop you can go into Domain Controller, reset passsord and give them a new password.
+  - Open Server Manager.
+    Search the user. RIght click the user's name.
+  - Click the "Reset Password."
+  - Enter new password and press "Ok." Provide feedback to user with new password.
+![reset2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/86b7a913-93a9-42f6-a4c3-c9b7c383f100)
+![pass reset](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/0f930cbd-b43d-4143-9720-5b3233440683)
+
+   
 
 
   
