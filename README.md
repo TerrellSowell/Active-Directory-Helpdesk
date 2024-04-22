@@ -79,6 +79,17 @@ If user has forgotten their password and can no longer access desktop you can go
 - Right click "Add printer" then select "Add a new printer using existin port"
 - Click "Install a new driver"
 - Select printer in this case I selected " " then click until finished.
+![printer](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/bfc23d06-fe64-40e4-b77c-687e2920623d)
+![printer2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/316a35b0-847a-485a-88f4-2eecb383ce37)
+![print3](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/6d4c293f-7ad5-4684-a525-660671945ceb)
+![print4](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/fa711a73-a910-4bcf-9ab0-b59dd191f7dc)
+![print6](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/6cadacc1-9d23-4628-a0fa-873fe0da3e58)
+![print7](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/dd4cf037-9499-49f8-916d-da8875a2b585)
+![printer7](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/7aa88453-39eb-4bfe-82df-37e8b16f4e6b)
+![printer8](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/2bc9f9c1-7337-487c-8dd4-e22b23df5afe)
+![printer9](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/04415085-81e8-462d-b802-522e96f38f97)
+![printer10](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/7e291ae4-fb84-4feb-bec0-a52669cc43c6)
+
 
    
 
