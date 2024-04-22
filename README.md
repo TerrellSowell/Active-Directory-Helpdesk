@@ -79,6 +79,7 @@ If user has forgotten their password and can no longer access desktop you can go
 - Right click "Add printer" then select "Add a new printer using existin port"
 - Click "Install a new driver"
 - Select printer in this case I selected " " then click until finished.
+- The last photo you right click the printer and press "Properties" then select the "Security" tab. This feature allows you add/remove users for the printer and shows who has printer persmissions. 
 ![printer](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/bfc23d06-fe64-40e4-b77c-687e2920623d)
 ![printer2](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/316a35b0-847a-485a-88f4-2eecb383ce37)
 ![print3](https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-/assets/161978506/6d4c293f-7ad5-4684-a525-660671945ceb)
