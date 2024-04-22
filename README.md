@@ -72,6 +72,13 @@ If user has forgotten their password and can no longer access desktop you can go
 * **Create a shared drive permissions for security groups**<p>
   (4/21/24) Lab 7 {Bookmark}
   
+* **Printer Set up for Server Manager**<p>
+- Click "Add Roles and Features" then click "next" until the "Select server roles" menu appears
+- Click "Print and Document Services" click "next" until the "Install" appears and start installion progress.
+- Click "Tools" and select "Print Management"
+- Right click "Add printer" then select "Add a new printer using existin port"
+- Click "Install a new driver"
+- Select printer in this case I selected " " then click until finished.
 
    
 
