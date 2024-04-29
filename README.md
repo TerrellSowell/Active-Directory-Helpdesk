@@ -12,7 +12,7 @@ This Active Directory Lab project aimed to farther my understanding of Active Di
 - Ability to generate and recognize common Active Directory features.
 - Development of critical thinking and problem-solving skills in Helpdesk.
 
-### Tools and Used<h2>
+### Tools and Technology Used<h2>
 
   - Microsoft Azure (Virtual Machines/Computers)
   - Remote Desktop
